@@ -2,6 +2,10 @@
 
 Real-time IoT sensor monitoring dashboard for worker safety using DHT11 (temperature/humidity) and MQ2 (gas) sensors.
 
+## Dashboard Preview
+
+![Worker Safety Monitor Dashboard](./docs/worker-safety-dashboard.png)
+
 ## Prerequisites
 
 - Node.js 18+
